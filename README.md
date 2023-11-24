@@ -46,7 +46,7 @@ At FASTER, we redefine logistics by combining speed with precision. Our website 
 IMAGES
 ![website images](img/faster-iphone-view.jpg)
 ![website images](img/faster-macbook.jpeg)
-![website images](img/faster-iphone-view.jpg)
+![website images](img/faster-logistics-prototype.png)
 
   =>  Template Name    : FASTER - Logistics Company Website
   
