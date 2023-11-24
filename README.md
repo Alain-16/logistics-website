@@ -44,7 +44,9 @@ Welcome to "FASTER," where efficiency meets reliability in logistics solutions. 
 At FASTER, we redefine logistics by combining speed with precision. Our website reflects our commitment to innovation, reliability, and customer-centric solutions. Experience the future of logistics with FASTER. Your cargo, our commitment.
 
 IMAGES
-![website images](img/faster-)
+![website images](img/faster-iphone-view.jpg)
+![website images](img/faster-macbook.jpeg)
+![website images](img/faster-iphone-view.jpg)
 
   =>  Template Name    : FASTER - Logistics Company Website
   
